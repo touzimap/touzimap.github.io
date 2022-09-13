@@ -127,7 +127,7 @@
 }
 
 .mailbox-env .mailbox-sidebar .mailbox-list li.active>a {
-    color: #2c2e2f;
+    color: #4A505D;
     font-weight: 700
 }
 
@@ -964,7 +964,7 @@
 
 .search-env .nav.tabs-vertical>li.active>a {
     font-weight: 700;
-    color: #2c2e2f
+    color: #4A505D
 }
 
 .search-env .nav.tabs-vertical>li.active>a:after {
@@ -1053,7 +1053,7 @@
 }
 
 .gallery-env .gallery-sidebar ul li.active>a {
-    color: #2c2e2f;
+    color: #4A505D;
     font-weight: 700
 }
 
@@ -1071,7 +1071,7 @@
     margin: 0;
     padding: 0;
     float: left;
-    color: #2c2e2f;
+    color: #4A505D;
     font-size: 24px
 }
 
@@ -1096,7 +1096,7 @@
 }
 
 .gallery-env .album-header .album-options li a:hover {
-    color: #2c2e2f
+    color: #4A505D
 }
 
 .gallery-env .album-header .album-options li label {
@@ -1174,7 +1174,7 @@
 }
 
 .gallery-env .album-images .album-image .name span {
-    color: #2c2e2f;
+    color: #4A505D;
     font-weight: 700
 }
 
@@ -1209,7 +1209,7 @@
 }
 
 .gallery-env .album-images .album-image .image-options a:hover {
-    color: #2c2e2f
+    color: #4A505D
 }
 
 .gallery-env .album-images .album-image .image-checkbox {
@@ -1613,7 +1613,7 @@ lesshat-selector {
 .calendar-env .calendar-main .fc .fc-toolbar .fc-button-group .fc-agendaWeek-button.fc-state-active,
 .calendar-env .calendar-main .fc .fc-toolbar .fc-button-group .fc-agendaDay-button.fc-state-active,
 .calendar-env .calendar-main .fc .fc-toolbar .fc-button-group .fc-basicDay-button.fc-state-active {
-    color: #2c2e2f
+    color: #4A505D
 }
 
 .calendar-env .calendar-main .fc .fc-toolbar .fc-button-group .fc-month-button:after {
@@ -1670,7 +1670,7 @@ lesshat-selector {
 
 .calendar-env .calendar-main .fc .fc-toolbar .fc-button.fc-next-button:hover,
 .calendar-env .calendar-main .fc .fc-toolbar .fc-button.fc-prev-button:hover {
-    color: #2c2e2f
+    color: #4A505D
 }
 
 .calendar-env .calendar-main .fc .fc-toolbar .fc-button.fc-prev-button:after {
@@ -1724,7 +1724,7 @@ lesshat-selector {
 
 .calendar-env .calendar-main .fc .fc-today {
     background-color: #fafafa;
-    color: #2c2e2f
+    color: #4A505D
 }
 
 .calendar-env .calendar-main .fc .fc-event {
@@ -1740,7 +1740,7 @@ lesshat-selector {
 }
 
 .calendar-env .calendar-main .fc .fc-event.event-color-primary {
-    background-color: #2c2e2f
+    background-color: #4A505D
 }
 
 .calendar-env .calendar-main .fc .fc-event.event-color-success {
@@ -2194,7 +2194,7 @@ lesshat-selector {
     left: 0;
     top: 0;
     bottom: 0;
-    background: #2c2e2f
+    background: #4A505D
 }
 
 .profile-env .user-timeline-stories .timeline-story .story-options-links {
@@ -2372,7 +2372,7 @@ lesshat-selector {
 }
 
 .page-body .main-content .cbp_tmtimeline>li .cbp_tmicon.timeline-bg-primary {
-    background-color: #2c2e2f;
+    background-color: #4A505D;
     color: #fff
 }
 
@@ -2641,7 +2641,7 @@ lesshat-selector {
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.timeline-bg-primary {
-    background-color: #2c2e2f;
+    background-color: #4A505D;
     color: #fff
 }
 
@@ -3108,7 +3108,7 @@ lesshat-selector {
 
 .tocify li a:hover {
     background: #fff;
-    color: #2c2e2f
+    color: #4A505D
 }
 
 .tocify>ul:first-child>li {
@@ -3134,7 +3134,7 @@ lesshat-selector {
 .tocify .tocify-item.active>a {
     position: relative;
     background: #f6f6f6;
-    color: #2c2e2f
+    color: #4A505D
 }
 
 .tocify .tocify-item.active>a:after {
@@ -3211,7 +3211,7 @@ lesshat-selector {
 .jvectormap-label {
     position: absolute;
     display: none;
-    background: #2c2e2f;
+    background: #4A505D;
     color: #fff;
     font-family: sans-serif, Verdana;
     font-size: smaller;
@@ -3531,7 +3531,7 @@ button.toast-close-button {
 }
 
 .login-page {
-    background: #2c2e2f;
+    background: #4A505D;
     color: #fff;
     padding-top: 150px
 }
@@ -3793,7 +3793,7 @@ button.toast-close-button {
 
 .login-page .login-form .form-group .btn.btn-dark {
     border-color: rgba(55, 57, 58, .9);
-    background-color: #2c2e2f;
+    background-color: #4A505D;
     color: #fff
 }
 
@@ -3836,7 +3836,7 @@ button.toast-close-button {
 .login-page .external-login a {
     display: block;
     color: #fff;
-    background: #2c2e2f;
+    background: #4A505D;
     padding: 13px 20px;
     font-size: 15px;
     margin-bottom: 10px
@@ -3941,7 +3941,7 @@ button.toast-close-button {
 }
 
 .lockscreen-page {
-    background: #2c2e2f;
+    background: #4A505D;
     color: #fff;
     padding-top: 250px
 }
@@ -4203,7 +4203,7 @@ button.toast-close-button {
 .xe-widget.xe-counter.xe-counter-primary .xe-icon i,
 .xe-widget.xe-counter-block .xe-upper.xe-counter-primary .xe-icon i,
 .xe-widget.xe-progress-counter .xe-upper.xe-counter-primary .xe-icon i {
-    background-color: #2c2e2f;
+    background-color: #4A505D;
     color: #fff
 }
 
@@ -4380,17 +4380,17 @@ button.toast-close-button {
 
 .xe-widget.xe-counter-block.xe-counter-block-primary,
 .xe-widget.xe-progress-counter.xe-counter-block-primary {
-    background: #2c2e2f
+    background: #4A505D
 }
 
 .xe-widget.xe-counter-block.xe-counter-block-primary .xe-upper,
 .xe-widget.xe-progress-counter.xe-counter-block-primary .xe-upper {
-    background: #2c2e2f
+    background: #4A505D
 }
 
 .xe-widget.xe-counter-block.xe-counter-block-primary .xe-upper .xe-icon i,
 .xe-widget.xe-progress-counter.xe-counter-block-primary .xe-upper .xe-icon i {
-    background-color: #2c2e2f;
+    background-color: #4A505D;
     color: #fff
 }
 
@@ -5011,7 +5011,7 @@ button.toast-close-button {
 }
 
 .xe-widget.xe-progress-counter.xe-progress-counter-primary {
-    background-color: #2c2e2f
+    background-color: #4A505D
 }
 
 .xe-widget.xe-progress-counter.xe-progress-counter-primary .xe-background {
@@ -5181,7 +5181,7 @@ button.toast-close-button {
 }
 
 .xe-widget.xe-vertical-counter.xe-vertical-counter-primary {
-    background: #2c2e2f;
+    background: #4A505D;
     color: #fff
 }
 
@@ -5403,7 +5403,7 @@ button.toast-close-button {
 }
 
 .xe-widget.xe-todo-list.xe-todo-list-primary {
-    background: #2c2e2f;
+    background: #4A505D;
     color: #fff
 }
 
@@ -7122,7 +7122,7 @@ button.toast-close-button {
 .members-table tbody tr td .name {
     display: block;
     font-size: 14px;
-    color: #2c2e2f;
+    color: #4A505D;
     font-weight: 700
 }
 
@@ -7222,7 +7222,7 @@ button.toast-close-button {
 
 .members-table-actions .selected-items span {
     font-weight: 700;
-    color: #2c2e2f
+    color: #4A505D
 }
 
 .members-table-actions .selected-items+.selected-actions {
